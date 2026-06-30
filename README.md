@@ -40,22 +40,6 @@ Junte-se às nossas discussões da comunidade no GitHub para compartilhar ideias
 
 Use o espaço de *issues* para relatar bugs, sugerir melhorias ou tirar dúvidas sobre o projeto 💬
 
----
-
-## 👥 Contribuidores
-
-Agradecimento especial a todas as pessoas incríveis que contribuíram para este projeto 💙
-
-<a href="https://github.com/kauavcorreia/chatbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kauavcorreia/chatbot" />
-</a>
-
 ## 📄 Licença
 
 Este projeto é open-source e está disponível sob a Licença MIT. Sinta-se livre para usar, modificar e distribuir para projetos pessoais ou comerciais.
-
----
-
-<div align="center">
-  <p>Feito com ❤️ por <a href="https://github.com/marconi-prog">Marconi Farias</a></p>
-</div>
